@@ -64,10 +64,23 @@ The intuitive UI ensures ease of use.
 
 ## 📷 Screenshots
 
-- Login Page
-- Manage Users
-- Add User
-- Add Role
+### Login Page
+![Login Page](https://github.com/shoaib-1457/RABC_Project/blob/main/Images/Login.png)
+
+---
+
+### Manage Users
+![Manage Users](https://github.com/shoaib-1457/RABC_Project/blob/main/Images/Mange%20User.png)
+
+---
+
+### Add User
+![Add User](https://github.com/shoaib-1457/RABC_Project/blob/main/Images/Add%20Roles.png)
+
+---
+
+### Add Roles
+![Add Roles](https://github.com/shoaib-1457/RABC_Project/blob/main/Images/Roles.png)
 
 ## 🔮 Future Enhancements
 
